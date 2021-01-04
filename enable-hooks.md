@@ -17,3 +17,5 @@ if not -rwxr-xr-x for post-commit
 chmod +x post-commit
 
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+
+### Disable rebasing

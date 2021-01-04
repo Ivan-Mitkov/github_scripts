@@ -1,0 +1,7 @@
+#!/bin/sh
+# this file in .git/hooks folder
+echo Thanks for commiting $GIT_AUTHOR_NAME
+
+exit 1
+
+EOF
